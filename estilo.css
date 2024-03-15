@@ -1,0 +1,109 @@
+.grid{
+    display: grid;
+    background-color: aqua;
+}
+.a{
+    display: grid;
+    background-color: rgb(85, 255, 0);
+}
+.b{
+    display: grid;
+    background-color: rgb(198, 19, 207);
+    grid-template-columns: auto auto auto;
+}
+.b div{
+    margin: 5px;
+    background-color: rgb(186, 225, 27);
+}
+.c{
+    display: grid;
+    background-color: rgb(13, 164, 224);
+    grid-template-columns: auto auto;
+    
+}
+.c div{
+    margin: 5px;
+    background-color: rgb(186, 225, 27);
+}
+.d{
+    display: grid;
+    background-color: rgb(232, 17, 207);
+    grid-template-columns: auto auto;
+}
+.d div{
+    margin: 5px;
+    background-color: rgb(126, 9, 223);
+}
+.d1 div{
+    margin: 5px;
+    background-color: rgb(48, 223, 9);
+}
+
+
+
+.flex
+{
+    background-color: silver;
+    padding: 1px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.q{
+    background-color: blue;
+    padding-bottom: 80px;
+    padding-left: 350px;
+
+}
+.w{
+    background-color: brown;
+   
+    
+    
+}
+.w1{
+    background-color: coral;
+    padding-left: 700px;
+    padding-bottom: 50px;
+    margin: 30px;
+
+}
+.w2{
+    background-color: rgb(13, 19, 201);
+    padding: 50px;
+    margin: 30px;
+
+}
+.w3{
+    background-color: blueviolet;
+    padding-left: 250px;
+    padding-bottom: 50px;
+    display: inline-block;
+}
+.w4{
+    background-color: rgb(208, 211, 15);
+    padding-left: 250px;
+    padding-bottom: 50px;
+    display: inline-block;
+}
+.e{
+    background-color: chartreuse;
+   
+    padding-bottom: 80px;
+    padding-left: 350px;
+    
+}
+.boostrap{
+    display: grid;
+    background-color: rgb(198, 19, 207);
+    grid-template-columns: auto auto auto;
+}
+.boostrap div{
+    margin: 5px;
+    background-color: rgb(186, 225, 27);
+}
+h1{
+    text-align: center;
+}
+
